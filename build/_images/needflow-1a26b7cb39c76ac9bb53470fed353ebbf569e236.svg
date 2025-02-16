@@ -1,0 +1,229 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="407pt" height="574pt" viewBox="0.00 0.00 407.00 574.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 570)">
+<ns0:title>needflow</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>T_HITL</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../project/scope_of_work.html#T_HITL" ns1:title="T_HITL" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="399,-315 293,-315 293,-265 399,-265 399,-315" />
+<ns0:text text-anchor="start" x="301" y="-302.4" font-family="sans-serif" font-size="12.00">Project</ns0:text>
+<ns0:text text-anchor="start" x="301" y="-292" font-family="sans-serif" font-weight="bold" font-size="10.00">HITL FPGA</ns0:text>
+<ns0:text text-anchor="start" x="301" y="-282" font-family="sans-serif" font-weight="bold" font-size="10.00">Implementation</ns0:text>
+<ns0:text text-anchor="start" x="301" y="-272" font-family="sans-serif" font-size="10.00">T_HITL</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>HL_001</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../requirements/high_level_reqs.html#HL_001" ns1:title="HL_001" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="257,-420 147,-420 143,-416 143,-380 253,-380 257,-384 257,-420" />
+<ns0:polyline fill="none" stroke="black" points="253,-416 143,-416 " />
+<ns0:polyline fill="none" stroke="black" points="253,-416 253,-380 " />
+<ns0:polyline fill="none" stroke="black" points="253,-416 257,-420 " />
+<ns0:text text-anchor="start" x="151" y="-407.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="151" y="-397" font-family="sans-serif" font-weight="bold" font-size="10.00">UART over RS422</ns0:text>
+<ns0:text text-anchor="start" x="151" y="-387" font-family="sans-serif" font-size="10.00">HL_001</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>HL_001-&gt;T_HITL</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M227.41,-379.82C248.86,-363.44 279.47,-340.06 304.09,-321.25" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="312.18,-315.07 306.97,-324.71 308.21,-318.1 304.24,-321.14 304.24,-321.14 304.24,-321.14 308.21,-318.1 301.51,-317.56 312.18,-315.07 312.18,-315.07" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>HL_002</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../requirements/high_level_reqs.html#HL_002" ns1:title="HL_002" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="253.5,-201 150.5,-201 146.5,-197 146.5,-161 249.5,-161 253.5,-165 253.5,-201" />
+<ns0:polyline fill="none" stroke="black" points="249.5,-197 146.5,-197 " />
+<ns0:polyline fill="none" stroke="black" points="249.5,-197 249.5,-161 " />
+<ns0:polyline fill="none" stroke="black" points="249.5,-197 253.5,-201 " />
+<ns0:text text-anchor="start" x="154.5" y="-188.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="154.5" y="-178" font-family="sans-serif" font-weight="bold" font-size="10.00">UART over LVDS</ns0:text>
+<ns0:text text-anchor="start" x="154.5" y="-168" font-family="sans-serif" font-size="10.00">HL_002</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>HL_002-&gt;T_HITL</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M227.75,-201.25C249.09,-217.4 279.34,-240.3 303.77,-258.79" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="311.81,-264.88 301.12,-262.43 307.83,-261.86 303.84,-258.84 303.84,-258.84 303.84,-258.84 307.83,-261.86 306.56,-255.26 311.81,-264.88 311.81,-264.88" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>LL_001</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../requirements/low_level_reqs.html#LL_001" ns1:title="LL_001" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="107,-566 4,-566 0,-562 0,-516 103,-516 107,-520 107,-566" />
+<ns0:polyline fill="none" stroke="black" points="103,-562 0,-562 " />
+<ns0:polyline fill="none" stroke="black" points="103,-562 103,-516 " />
+<ns0:polyline fill="none" stroke="black" points="103,-562 107,-566 " />
+<ns0:text text-anchor="start" x="8" y="-553.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-543" font-family="sans-serif" font-weight="bold" font-size="10.00">UART Baud Rate</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-533" font-family="sans-serif" font-weight="bold" font-size="10.00">(CH.1)</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-523" font-family="sans-serif" font-size="10.00">LL_001</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>LL_001-&gt;HL_001</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M95.75,-515.93C99.67,-513.07 103.48,-510.07 107,-507 134.33,-483.14 160.83,-451.08 178.31,-428.29" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="184.55,-420.05 182.1,-430.74 181.53,-424.04 178.51,-428.02 178.51,-428.02 178.51,-428.02 181.53,-424.04 174.92,-425.31 184.55,-420.05 184.55,-420.05" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>LL_002</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../requirements/low_level_reqs.html#LL_002" ns1:title="LL_002" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="101.5,-498 9.5,-498 5.5,-494 5.5,-448 97.5,-448 101.5,-452 101.5,-498" />
+<ns0:polyline fill="none" stroke="black" points="97.5,-494 5.5,-494 " />
+<ns0:polyline fill="none" stroke="black" points="97.5,-494 97.5,-448 " />
+<ns0:polyline fill="none" stroke="black" points="97.5,-494 101.5,-498 " />
+<ns0:text text-anchor="start" x="13.5" y="-485.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="13.5" y="-475" font-family="sans-serif" font-weight="bold" font-size="10.00">UART Frame</ns0:text>
+<ns0:text text-anchor="start" x="13.5" y="-465" font-family="sans-serif" font-weight="bold" font-size="10.00">Format (CH.1)</ns0:text>
+<ns0:text text-anchor="start" x="13.5" y="-455" font-family="sans-serif" font-size="10.00">LL_002</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>LL_002-&gt;HL_001</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M101.81,-449.1C117.36,-441.24 134.67,-432.5 150.32,-424.59" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="159.32,-420.05 152.42,-428.57 154.85,-422.3 150.39,-424.56 150.39,-424.56 150.39,-424.56 154.85,-422.3 148.36,-420.54 159.32,-420.05 159.32,-420.05" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>LL_003</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../requirements/low_level_reqs.html#LL_003" ns1:title="LL_003" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="107,-430 4,-430 0,-426 0,-370 103,-370 107,-374 107,-430" />
+<ns0:polyline fill="none" stroke="black" points="103,-426 0,-426 " />
+<ns0:polyline fill="none" stroke="black" points="103,-426 103,-370 " />
+<ns0:polyline fill="none" stroke="black" points="103,-426 107,-430 " />
+<ns0:text text-anchor="start" x="8" y="-417.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-407" font-family="sans-serif" font-weight="bold" font-size="10.00">UART Frame</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-397" font-family="sans-serif" font-weight="bold" font-size="10.00">Synchronization</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-387" font-family="sans-serif" font-weight="bold" font-size="10.00">(CH.1)</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-377" font-family="sans-serif" font-size="10.00">LL_003</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>LL_003-&gt;HL_001</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M107.08,-400C115.43,-400 124.16,-400 132.78,-400" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="142.81,-400 132.81,-404.5 137.81,-400 132.81,-400 132.81,-400 132.81,-400 137.81,-400 132.81,-395.5 142.81,-400 142.81,-400" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>LL_004</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../requirements/low_level_reqs.html#LL_004" ns1:title="LL_004" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="102.5,-352 8.5,-352 4.5,-348 4.5,-292 98.5,-292 102.5,-296 102.5,-352" />
+<ns0:polyline fill="none" stroke="black" points="98.5,-348 4.5,-348 " />
+<ns0:polyline fill="none" stroke="black" points="98.5,-348 98.5,-292 " />
+<ns0:polyline fill="none" stroke="black" points="98.5,-348 102.5,-352 " />
+<ns0:text text-anchor="start" x="12.5" y="-339.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="12.5" y="-329" font-family="sans-serif" font-weight="bold" font-size="10.00">UART</ns0:text>
+<ns0:text text-anchor="start" x="12.5" y="-319" font-family="sans-serif" font-weight="bold" font-size="10.00">Control/Status</ns0:text>
+<ns0:text text-anchor="start" x="12.5" y="-309" font-family="sans-serif" font-weight="bold" font-size="10.00">(CH.1)</ns0:text>
+<ns0:text text-anchor="start" x="12.5" y="-299" font-family="sans-serif" font-size="10.00">LL_004</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>LL_004-&gt;HL_001</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M102.62,-347.97C118.68,-356.64 136.53,-366.28 152.47,-374.88" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="161.6,-379.81 150.67,-379.02 157.2,-377.44 152.8,-375.06 152.8,-375.06 152.8,-375.06 157.2,-377.44 154.94,-371.1 161.6,-379.81 161.6,-379.81" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>LL_005</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../requirements/low_level_reqs.html#LL_005" ns1:title="LL_005" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="107,-274 4,-274 0,-270 0,-224 103,-224 107,-228 107,-274" />
+<ns0:polyline fill="none" stroke="black" points="103,-270 0,-270 " />
+<ns0:polyline fill="none" stroke="black" points="103,-270 103,-224 " />
+<ns0:polyline fill="none" stroke="black" points="103,-270 107,-274 " />
+<ns0:text text-anchor="start" x="8" y="-261.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-251" font-family="sans-serif" font-weight="bold" font-size="10.00">UART Baud Rate</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-241" font-family="sans-serif" font-weight="bold" font-size="10.00">(CH.2)</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-231" font-family="sans-serif" font-size="10.00">LL_005</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>LL_005-&gt;HL_002</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M107.08,-224.26C120.06,-218.15 133.97,-211.6 146.93,-205.5" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="156.18,-201.15 149.04,-209.48 151.65,-203.28 147.13,-205.41 147.13,-205.41 147.13,-205.41 151.65,-203.28 145.21,-201.34 156.18,-201.15 156.18,-201.15" />
+</ns0:g>
+
+<ns0:g id="node9" class="node">
+<ns0:title>LL_006</ns0:title>
+<ns0:g id="a_node9"><ns0:a ns1:href="../requirements/low_level_reqs.html#LL_006" ns1:title="LL_006" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="101.5,-206 9.5,-206 5.5,-202 5.5,-156 97.5,-156 101.5,-160 101.5,-206" />
+<ns0:polyline fill="none" stroke="black" points="97.5,-202 5.5,-202 " />
+<ns0:polyline fill="none" stroke="black" points="97.5,-202 97.5,-156 " />
+<ns0:polyline fill="none" stroke="black" points="97.5,-202 101.5,-206 " />
+<ns0:text text-anchor="start" x="13.5" y="-193.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="13.5" y="-183" font-family="sans-serif" font-weight="bold" font-size="10.00">UART Frame</ns0:text>
+<ns0:text text-anchor="start" x="13.5" y="-173" font-family="sans-serif" font-weight="bold" font-size="10.00">Format (CH.2)</ns0:text>
+<ns0:text text-anchor="start" x="13.5" y="-163" font-family="sans-serif" font-size="10.00">LL_006</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge8" class="edge">
+<ns0:title>LL_006-&gt;HL_002</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M101.81,-181C112.83,-181 124.72,-181 136.29,-181" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="146.33,-181 136.33,-185.5 141.33,-181 136.33,-181 136.33,-181 136.33,-181 141.33,-181 136.33,-176.5 146.33,-181 146.33,-181" />
+</ns0:g>
+
+<ns0:g id="node10" class="node">
+<ns0:title>LL_007</ns0:title>
+<ns0:g id="a_node10"><ns0:a ns1:href="../requirements/low_level_reqs.html#LL_007" ns1:title="LL_007" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="107,-138 4,-138 0,-134 0,-78 103,-78 107,-82 107,-138" />
+<ns0:polyline fill="none" stroke="black" points="103,-134 0,-134 " />
+<ns0:polyline fill="none" stroke="black" points="103,-134 103,-78 " />
+<ns0:polyline fill="none" stroke="black" points="103,-134 107,-138 " />
+<ns0:text text-anchor="start" x="8" y="-125.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-115" font-family="sans-serif" font-weight="bold" font-size="10.00">UART Frame</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-105" font-family="sans-serif" font-weight="bold" font-size="10.00">Synchronization</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-95" font-family="sans-serif" font-weight="bold" font-size="10.00">(CH.2)</ns0:text>
+<ns0:text text-anchor="start" x="8" y="-85" font-family="sans-serif" font-size="10.00">LL_007</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge9" class="edge">
+<ns0:title>LL_007-&gt;HL_002</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M107.08,-134.56C121.24,-141.72 136.5,-149.43 150.44,-156.47" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="159.38,-160.98 148.42,-160.49 154.92,-158.73 150.45,-156.47 150.45,-156.47 150.45,-156.47 154.92,-158.73 152.48,-152.46 159.38,-160.98 159.38,-160.98" />
+</ns0:g>
+
+<ns0:g id="node11" class="node">
+<ns0:title>LL_008</ns0:title>
+<ns0:g id="a_node11"><ns0:a ns1:href="../requirements/low_level_reqs.html#LL_008" ns1:title="LL_008" target="_top">
+<ns0:polygon fill="#bfd8d2" stroke="black" points="102.5,-60 8.5,-60 4.5,-56 4.5,0 98.5,0 102.5,-4 102.5,-60" />
+<ns0:polyline fill="none" stroke="black" points="98.5,-56 4.5,-56 " />
+<ns0:polyline fill="none" stroke="black" points="98.5,-56 98.5,0 " />
+<ns0:polyline fill="none" stroke="black" points="98.5,-56 102.5,-60 " />
+<ns0:text text-anchor="start" x="12.5" y="-47.4" font-family="sans-serif" font-size="12.00">Requirement</ns0:text>
+<ns0:text text-anchor="start" x="12.5" y="-37" font-family="sans-serif" font-weight="bold" font-size="10.00">UART</ns0:text>
+<ns0:text text-anchor="start" x="12.5" y="-27" font-family="sans-serif" font-weight="bold" font-size="10.00">Control/Status</ns0:text>
+<ns0:text text-anchor="start" x="12.5" y="-17" font-family="sans-serif" font-weight="bold" font-size="10.00">(CH.2)</ns0:text>
+<ns0:text text-anchor="start" x="12.5" y="-7" font-family="sans-serif" font-size="10.00">LL_008</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge10" class="edge">
+<ns0:title>LL_008-&gt;HL_002</ns0:title>
+<ns0:path fill="none" stroke="#57acdc" d="M97.08,-60.2C100.52,-63.07 103.88,-66.02 107,-69 134.26,-94.97 161.09,-128.84 178.67,-152.51" />
+<ns0:polygon fill="#57acdc" stroke="#57acdc" points="184.71,-160.73 175.16,-155.34 181.75,-156.7 178.79,-152.67 178.79,-152.67 178.79,-152.67 181.75,-156.7 182.42,-150.01 184.71,-160.73 184.71,-160.73" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>
